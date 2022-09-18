@@ -1,0 +1,14 @@
+## kernal module compilation artifacts
+*.ko.cmd
+*.mod.cmd
+*.mod.o.cmd
+*.o.cmd
+*.Module.symvers.cmd
+*.modules.order.cmd
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
+Module.symvers
+modules.order
