@@ -10,3 +10,7 @@ Topics learned:
 # Notes
 
 Kernal module code will not work in Windows WSL because WSL does not allow modules to be loaded. Please run on a native Linux machine instead.
+
+# Resources
+
+- Linux kernel programming guide: https://tldp.org/LDP/lkmpg/2.6/html/
