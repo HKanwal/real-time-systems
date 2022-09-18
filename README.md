@@ -13,4 +13,4 @@ Kernal module code will not work in Windows WSL because WSL does not allow modul
 
 # Resources
 
-- Linux kernel programming guide: https://tldp.org/LDP/lkmpg/2.6/html/
+- Linux kernel module programming guide: https://tldp.org/LDP/lkmpg/2.6/html/
